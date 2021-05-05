@@ -1,6 +1,6 @@
-#Final Project OOP: Exportable and Importable RPG Battler
+# Final Project OOP: Exportable and Importable RPG Battler
 
-## Synopsis
+## Overview
 This project is akin to the (likely) hundreds and hundreds of battlers you have seen. But the one thing that makes this unique is it's ability to Export and Import 
 both the characters and the enemies. You can make hundreds of them and use any amount you need at a time, and save the rest tucked away in .TXT file somewhere.
 
